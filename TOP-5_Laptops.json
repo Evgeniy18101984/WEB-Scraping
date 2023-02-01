@@ -1,0 +1,48 @@
+{
+"select url, product_name, cpu_hhz, ram_gb, ssd_gb, price, \"rank\"  from \"Laptops\" \r\norder by \"rank\" desc\r\nlimit 5": [
+	{
+		"url" : "https:\/\/www.computeruniverse.net\/ru\/p\/90906820",
+		"product_name" : "Dell XPS 17 9720 K00D7 i9-12900HK 64GB\/2TB SSD 17\" UHD+ Touch RTX3060 W11",
+		"cpu_hhz" : 3.8,
+		"ram_gb" : 64,
+		"ssd_gb" : 2048,
+		"price" : 232088,
+		"rank" : 3216.03
+	},
+	{
+		"url" : "https:\/\/www.computeruniverse.net\/ru\/p\/90916394",
+		"product_name" : "ASUS ROG Zephyrus Duo 16 GX650RX-LO180X R9-6900HX 64GB\/2TB 16\"QHD RTX3080Ti W11P",
+		"cpu_hhz" : 3.3,
+		"ram_gb" : 64,
+		"ssd_gb" : 2048,
+		"price" : 249458,
+		"rank" : 3207.97
+	},
+	{
+		"url" : "https:\/\/www.computeruniverse.net\/ru\/p\/90849882",
+		"product_name" : "Dell XPS 17 9710 GCW33 i9-11980HK 64GB\/2TB SSD 17\" UHD+ Touch RTX3060 W11",
+		"cpu_hhz" : 2.6,
+		"ram_gb" : 64,
+		"ssd_gb" : 2048,
+		"price" : 245743,
+		"rank" : 3205.1
+	},
+	{
+		"url" : "https:\/\/www.computeruniverse.net\/ru\/p\/90909310",
+		"product_name" : "Lenovo ThinkPad P1 21DC0058GE W11P",
+		"cpu_hhz" : 1.8,
+		"ram_gb" : 64,
+		"ssd_gb" : 2048,
+		"price" : 301731,
+		"rank" : 3183.74
+	},
+	{
+		"url" : "https:\/\/www.notik.ru\/goods\/notebooks-msi-creatorpro-z16p-b12umst-223ru-gray-91967.htm",
+		"product_name" : "MSI CreatorPro Z16P B12UMST-223RU i9-12900H 64Gb SSD 2Tb NVIDIA RTX A5500 для ноутбуков 16Gb 16 QHD+ TS IPS Cam 90Вт*ч Win11Pro Серый 9S7-15G121-223",
+		"cpu_hhz" : 2.5,
+		"ram_gb" : 64,
+		"ssd_gb" : 2048,
+		"price" : 369900,
+		"rank" : 3167.28
+	}
+]}
